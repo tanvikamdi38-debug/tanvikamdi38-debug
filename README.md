@@ -53,7 +53,7 @@
 
 # 🐍 Contribution Activity
 
-![Snake animation](https://raw.githubusercontent.com/tanvikamdi38-debug/tanvikamdi38-debug/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/tanvikamdi38-debug/tanvikamdi38-debug/gh-pages/github-contribution-grid-snake-dark.svg)
 
 ---
 
