@@ -1,12 +1,22 @@
+<div align="center">
+
+# Hi, I'm Tanvi Kamdi 👋
+
+### 🔐 Cybersecurity | SOC | Incident Response | Threat Investigation | Digital Forensics
+
+*Investigating what others overlook — from alerts and suspicious activity to the evidence behind an incident.*
+
+</div>
+
+---
 # 💫 About Me
 
-👋 Hi, I'm **Tanvi Kamdi** — a Forensic Science graduate building my career in **Cybersecurity**.<br>
-🔍 My background trained me to investigate evidence, identify patterns, question inconsistencies, and understand what actually happened before reaching a conclusion.<br>
-🛡️ I'm currently exploring **security operations, incident response, threat investigation, digital forensics, phishing analysis, and malware investigation**.<br>
-🧠 I enjoy understanding the **why and how behind an incident**, not just identifying that something looks suspicious.<br>
-💻 Currently strengthening my skills through hands-on labs, practical cybersecurity projects, and continuous learning.<br>
+🧬 My foundation in **Forensic Science** shaped the way I approach cybersecurity — with curiosity, evidence, and attention to detail.<br>
+🔍 I enjoy working through incidents like investigations: examining artifacts, connecting patterns, questioning inconsistencies, and understanding what actually happened.<br>
+🛡️ My interests span **SOC operations, threat detection, incident response, digital forensics, phishing analysis, and malware investigation**.<br>
+🧪 I build practical experience through **hands-on security labs, incident investigations, and cybersecurity projects**, documenting what I learn along the way.<br>
+🧠 I'm especially interested in the **why and how behind suspicious activity** — not simply whether an alert is malicious.<br>
 🔎 **I investigate what others overlook — and I have the evidence to prove it.**
-
 ---
 
 ## 🌐 Socials
